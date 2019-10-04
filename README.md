@@ -2,7 +2,7 @@
 > A Platform for management of programming
 assignments and projects in universities/schools.
 
-### Minor Features :star:
+### Minor Features
 > I am just adding these here to have an understanding. Every feature is not required.
 
 1. Send E-mail to students as soon as a assignment gets published with some details.
@@ -28,3 +28,4 @@ assignments and projects in universities/schools.
 2. How to make sure a professor is actually a professor.
 3. No support for `Visual Basic.NET` & `PHP` for compiling/interpreting.
 4. No support for Moss on `PHP`.
+5. Checking one semester's assignment submission with last year for plagiarism.
